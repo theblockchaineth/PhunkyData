@@ -1,0 +1,55 @@
+{
+  "kind": "collectionType",
+  "collectionName": "spotlights",
+  "info": {
+    "singularName": "spotlight",
+    "pluralName": "spotlights",
+    "displayName": "spotlight"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tokenId": {
+      "type": "integer",
+      "required": true,
+      "unique": true
+    },
+    "date": {
+      "type": "date",
+      "required": true
+    },
+    "title": {
+      "type": "string",
+      "maxLength": 200,
+      "required": true
+    },
+    "artist": {
+      "type": "string",
+      "required": true
+    },
+    "artistInfo": {
+      "type": "text",
+      "required": true
+    },
+    "artworkInfo": {
+      "type": "text",
+      "required": true
+    },
+    "artistCollectionsLink": {
+      "type": "string"
+    },
+    "twitterUrl": {
+      "type": "string"
+    },
+    "thumbnail": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}
