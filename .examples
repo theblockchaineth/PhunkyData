@@ -1,0 +1,13 @@
+How to filter:
+https://docs.strapi.io/developer-docs/latest/developer-resources/database-apis-reference/rest/api-parameters.html
+
+Examples:
+
+All Hoodies w/ Cigarettes
+/api/v2-phunks-nfts?filters[hair][$eqi]=hoodie&filters[mouth][$eqi]=cigarette
+
+All Aliens w/ Earrings
+/api/v2-phunks-nfts?filters[sex][$eqi]=alien&filters[ears][$eqi]=earring
+
+All 4T w/ Fedoras
+/api/v2-phunks-nfts?filters[hair][$eqi]=fedora&filters[traitTag][$eq]=4T

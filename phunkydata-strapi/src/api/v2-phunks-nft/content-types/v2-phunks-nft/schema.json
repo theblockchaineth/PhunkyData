@@ -1,0 +1,78 @@
+{
+  "kind": "collectionType",
+  "collectionName": "v2_phunks_nfts",
+  "info": {
+    "singularName": "v2-phunks-nft",
+    "pluralName": "v2-phunks-nfts",
+    "displayName": "v2-phunks-nft"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tokenId": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "image_url": {
+      "type": "string"
+    },
+    "totalAttributes": {
+      "type": "integer"
+    },
+    "totalAttributesExcludingSex": {
+      "type": "integer"
+    },
+    "traitTag": {
+      "type": "string"
+    },
+    "attributes": {
+      "type": "json"
+    },
+    "ears": {
+      "type": "string"
+    },
+    "lips": {
+      "type": "string"
+    },
+    "beard": {
+      "type": "string"
+    },
+    "hair": {
+      "type": "string"
+    },
+    "emotion": {
+      "type": "string"
+    },
+    "sex": {
+      "type": "string"
+    },
+    "eyes": {
+      "type": "string"
+    },
+    "cheeks": {
+      "type": "string"
+    },
+    "teeth": {
+      "type": "string"
+    },
+    "nose": {
+      "type": "string"
+    },
+    "mouth": {
+      "type": "string"
+    },
+    "face": {
+      "type": "string"
+    },
+    "neck": {
+      "type": "string"
+    }
+  }
+}
