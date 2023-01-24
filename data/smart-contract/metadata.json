@@ -1,0 +1,84 @@
+{
+	"version": 2,
+	"data": {
+		"api::smart-contract.smart-contract": {
+			"1": {
+				"id": 1,
+				"contractName": "CryptoPhunks V2",
+				"contractAddress": "0xf07468ead8cf26c752c676e43c814fee9c8cf402",
+				"networkId": 1,
+				"blockchain": "Ethereum",
+				"createdAt": "2023-01-24T03:43:01.823Z",
+				"updatedAt": "2023-01-24T03:43:01.823Z",
+				"createdBy": null,
+				"updatedBy": null
+			},
+			"2": {
+				"id": 2,
+				"contractName": "V3 Phunks",
+				"contractAddress": "0xb7D405BEE01C70A9577316C1B9C2505F146e8842",
+				"networkId": 1,
+				"blockchain": "Ethereum",
+				"createdAt": "2023-01-24T03:43:46.787Z",
+				"updatedAt": "2023-01-24T03:43:46.787Z",
+				"createdBy": null,
+				"updatedBy": null
+			},
+			"3": {
+				"id": 3,
+				"contractName": "Phunky Spotlight",
+				"contractAddress": "0x16362709e1Be7a118360037A3f112bBf26a9b6cB",
+				"networkId": 1,
+				"blockchain": "Ethereum",
+				"createdAt": "2023-01-24T03:44:28.693Z",
+				"updatedAt": "2023-01-24T03:44:28.693Z",
+				"createdBy": null,
+				"updatedBy": null
+			},
+			"4": {
+				"id": 4,
+				"contractName": "NLL Marketplace",
+				"contractAddress": "0xd6c037bE7FA60587e174db7A6710f7635d2971e7",
+				"networkId": 1,
+				"blockchain": "Ethereum",
+				"createdAt": "2023-01-24T03:46:12.148Z",
+				"updatedAt": "2023-01-24T03:46:12.148Z",
+				"createdBy": null,
+				"updatedBy": null
+			},
+			"5": {
+				"id": 5,
+				"contractName": "Auction House",
+				"contractAddress": "0x0E7f7d8007C0FCcAc2a813a25f205b9030697856",
+				"networkId": 1,
+				"blockchain": "Ethereum",
+				"createdAt": "2023-01-24T03:46:53.263Z",
+				"updatedAt": "2023-01-24T03:46:53.263Z",
+				"createdBy": null,
+				"updatedBy": null
+			},
+			"6": {
+				"id": 6,
+				"contractName": "Treasury",
+				"contractAddress": "0x61f874551c69f0E40c9f55219107B408C989aDEc",
+				"networkId": 1,
+				"blockchain": "Ethereum",
+				"createdAt": "2023-01-24T03:47:32.349Z",
+				"updatedAt": "2023-01-24T03:47:32.349Z",
+				"createdBy": null,
+				"updatedBy": null
+			},
+			"7": {
+				"id": 7,
+				"contractName": "Flywheel",
+				"contractAddress": "0x86B525AB8c5c9B8852F3A1BC79376335bCD2f962",
+				"networkId": 1,
+				"blockchain": "Ethereum",
+				"createdAt": "2023-01-24T03:48:29.116Z",
+				"updatedAt": "2023-01-24T03:48:29.116Z",
+				"createdBy": null,
+				"updatedBy": null
+			}
+		}
+	}
+}

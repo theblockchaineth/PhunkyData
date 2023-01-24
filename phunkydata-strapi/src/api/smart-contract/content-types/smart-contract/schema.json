@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "smart_contracts",
+  "info": {
+    "singularName": "smart-contract",
+    "pluralName": "smart-contracts",
+    "displayName": "smart-contract"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "contractName": {
+      "type": "string"
+    },
+    "contractAddress": {
+      "type": "string"
+    },
+    "networkId": {
+      "type": "integer"
+    },
+    "blockchain": {
+      "type": "string"
+    }
+  }
+}
