@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "v2_phunks_events",
+  "info": {
+    "singularName": "v2-phunks-event",
+    "pluralName": "v2-phunks-events",
+    "displayName": "v2-phunks-event"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "response": {
+      "type": "json"
+    }
+  }
+}
