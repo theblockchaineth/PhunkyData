@@ -30,6 +30,13 @@ Single: https://data.phunky.dev/api/v3-phunks-nfts/6969
 <br><br>
 ### How to filter:
 https://docs.strapi.io/developer-docs/latest/developer-resources/database-apis-reference/rest/api-parameters.html
+<br><br>
+### Events (Sales, Transfers, etc) by Token ID
+**V2 Phunks:**
+<br>https://data.phunky.dev/api/v2-phunks-events/6969
+<br>
+**V3 Phunks:**
+<br>https://data.phunky.dev/api/v3-phunks-events/6969
 
 **Examples:**
 ```
