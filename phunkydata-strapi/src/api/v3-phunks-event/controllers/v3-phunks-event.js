@@ -26,8 +26,6 @@ module.exports = createCoreController('api::v3-phunks-event.v3-phunks-event', ({
             const data = await response.json();
             const events = data['data'];
 
-            console.log(events)
-
             var event_data = [];
             for (const event of events) {
                 const parsed_json = {
@@ -39,8 +37,6 @@ module.exports = createCoreController('api::v3-phunks-event.v3-phunks-event', ({
                 };
                 event_data.push(parsed_json);
             }
-
-            console.log(event_data)
 
             const processed_data = {
                 "tokenId" : id,
